@@ -1,2 +1,2 @@
-# wasteagram-
+# wasteagram
 Flutter application for ios 
