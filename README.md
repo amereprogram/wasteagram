@@ -5,3 +5,4 @@ ios mobile app using Flutter and Dart language. Enables coffee shop employees to
 - Integrates the use of crash reporting (Sentry) to record application crashes.
 
 # GIF visual example
+![](https://github.com/amereprogram/wasteagram/blob/main/wasteagram.GIF)
